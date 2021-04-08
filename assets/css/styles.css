@@ -1,0 +1,36 @@
+ .intro-title{
+    font-family: 'Open Sans', sans-serif;
+ }
+
+
+ .intro-text {
+    font-family: 'Kanit', sans-serif;
+ }
+
+ .MuiSvgIcon-root {
+    fill: #192D3B;
+    width: 1em;
+    height: 1em;
+    display: inline-block;
+    font-size: 1.5rem;
+    transition: fill 200ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+    flex-shrink: 0;
+    user-select: none;
+  }
+
+  .intro-contact {
+    font-size: 18px;
+    font-family: "NTR",sans-serif;
+    padding: 10px 10px;
+    cursor: pointer;
+    border: 1px solid #192D3B;
+    border-radius: 4px;
+}
+
+.titles{
+    font-family: 'Kanit', sans-serif;
+}
+
+.spaced {
+    display: inline-block;
+}
